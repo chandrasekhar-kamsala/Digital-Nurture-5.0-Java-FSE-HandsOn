@@ -26,6 +26,17 @@ This repository contains all mandatory hands-on exercises completed as part of t
 
 Exercises are organized week-wise and module-wise according to the Deep Skilling curriculum.
 
+### Top-level modules
+
+1. Algorithms_Data_Structures
+2. Design principles & Patterns
+3. PLSQL_Exercises
+4. React
+5. SLF4J LOGGING FRAMEWORK
+6. TDD using JUnit5 and Mockito
+7. Spring Core and Maven
+8. Spring Data JPA with Spring Boot, Hibernates
+
 ## Author
 
 Kamsala Chandrasekhar
